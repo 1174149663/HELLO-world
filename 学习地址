@@ -1,0 +1,4 @@
+1.java synchronized详解
+    描述：Java语言的关键字，当它用来修饰一个方法或者一个代码块的时候，能够保证在同一时刻最多只有一个线程执行该段代码。
+    网址：http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html
+    
